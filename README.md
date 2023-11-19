@@ -2,8 +2,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="4%" /> 우테코 미션 회고 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="4%" />
 
-- ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/baseball_26be.png" width="2.5%"> <a href = "https://polyester-cicada-a92.notion.site/Baseball-Game-a3b9e87b45de454eaf32b713fbd16db1?pvs=4" style="color:black">BaseBall</a> 
-- ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/automobile_1f697.png" width="3%"> RacingCar 
+- ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/baseball_26be.png" width="2.5%"> <a href = "https://polyester-cicada-a92.notion.site/Baseball-Game-a3b9e87b45de454eaf32b713fbd16db1?pvs=4"/> BaseBall
+- ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/automobile_1f697.png" width="3%"> <a href = "https://polyester-cicada-a92.notion.site/Racing-Car-24b14226f2da46ccbd9558f424acc2ea?pvs=4"/> RacingCar
 - ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/slot-machine_1f3b0.png" width="3%"> Lotto
 - ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/christmas-tree_1f384.png" width="3.5%">Christmas
 
