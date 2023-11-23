@@ -6,6 +6,9 @@
 - ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/automobile_1f697.png" width="3%"> <a href = "https://polyester-cicada-a92.notion.site/Racing-Car-24b14226f2da46ccbd9558f424acc2ea?pvs=4"/> RacingCar
 - ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/slot-machine_1f3b0.png" width="3%"> <a href = "https://polyester-cicada-a92.notion.site/Lotto-24b14226f2da46ccbd9558f424acc2ea?pvs=4"/> Lotto
 - ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/christmas-tree_1f384.png" width="3.5%">Christmas
+</br>
+
+- ### <img src="https://em-content.zobj.net/source/microsoft-teams/363/teddy-bear_1f9f8.png" width="3.5%"/> <a href = "https://polyester-cicada-a92.notion.site/656ebca846314d5f86aadd98d70a1438?pvs=4"/> 공부 기록
 
 [//]: # (![footer]&#40;https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=&fontAlign=70&#41;)
 
