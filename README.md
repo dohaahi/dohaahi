@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d5aeea&height=180&text=doha's%20github&animation=&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발자를 꿈꾸는 김도하입니다. 👋 </div> 
+<!--     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드 개발자를 꿈꾸는 김도하입니다. 👋 </div>  -->
     </div>
     <br>
     <div style="text-align: left;">
